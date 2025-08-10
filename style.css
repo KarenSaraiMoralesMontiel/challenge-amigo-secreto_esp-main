@@ -160,3 +160,11 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.amigos, li {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
